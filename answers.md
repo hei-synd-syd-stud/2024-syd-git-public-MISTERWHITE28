@@ -23,6 +23,7 @@ main : Cela représente la branche actuelle sur laquelle vous êtes. Par défaut
 3. Ce qui suit le hash (et les éventuels marquages de branche comme (HEAD -> main)) est le message du commit. Dans ce cas, il s'agit de Task4. Ce message donne un résumé du changement effectué dans ce commit, qui, ici, semble être lié à la tâche 4.
 
 ### Task 6
+En revenant à ce commit avec une commande comme git checkout 5da930b (le hash correspondant à l'"Initial commit"), le dossier de projet a été "restauré" à l'état exact dans lequel il était au moment de ce commit. Cela signifie que tous les fichiers et dossiers ajoutés après ce commit (comme les modifications de Task1, Task2, etc.) disparaissent temporairement de votre espace de travail.
 
 ## Gitgraph
 
