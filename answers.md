@@ -28,5 +28,19 @@ En revenant à ce commit avec une commande comme git checkout 5da930b (le hash c
 ## Gitgraph
 
 ### Task 7
+1. develop - Une branche nommée develop.
+2. c93fcc - Un commit où la branche feature-auth est fusionnée (merge) dans develop avec le message "added user authentication".
+3. feature-auth - Une branche nommée feature-auth.
+4. Auteur et Email - Détail d'un commit, indiquant l'auteur "CodeQueen Carol" et son adresse email carol.codequeen@hevs.ch.
+5. main et v1.0.0 - Le tag v1.0.0 associé à la branche main, pointant vers le commit qui fusionne develop dans main.
+6. Ligne de temps des commits - Représentation de l'historique des commits dans la branche develop.
+7. Pointeur de branche main - Indique la position actuelle de la branche main.
+8. Commit b205e38 - Un commit avec le message "prepare for release".
+9. Commit e209ecc - Un commit avec le message "added frontend".
+10. Commit e83fbdc - Le commit initial du dépôt.
 
-![Gitgraph](img/gitgraph.svg)
+Pour le second point de l'exercice :
+
+Pour pousser votre dépôt local vers le dépôt distant GitHub, utilisez la commande :
+git push origin main
+
