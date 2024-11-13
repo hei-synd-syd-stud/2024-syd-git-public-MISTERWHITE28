@@ -9,8 +9,10 @@ Et on peut voir qu'on est a jour et qu'on a aucun changement à commit
 Pas de changement dans le online car on a pas encore commit mais on voit dans le stage qu'il y a un changement qui a été réalisé
 
 ### Task 3
+On a réalisé le commit donc le statut (stage) voit plus de changement a commit 
 
 ### Task 4
+Je m'aperçoit qu'un changement dans le fichier README.md a été réalisé et je m'aperçoit le texte qui a été ajouté, il est en vert 
 
 ### Task 5
 
